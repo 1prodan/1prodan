@@ -2,15 +2,15 @@
 - LLM Vuln Testing with Garak (x)
 
 <h1>Certifications</h1>
-- CompTIA Infrastructure Specalist (A+, Network+, Sec+) (x)
+- CompTIA Infrastructure Specalist (A+, Network+, Sec+) (https://imgur.com/a/dOYXEWg)
 <br>
 - CompTIA Security Analytics Professional (Sec+, CySA+) (https://imgur.com/a/vlsneU8)
 <br>
-- CompTIA PenTest+ (X)
+- CompTIA PenTest+ (https://imgur.com/a/I08xSxt)
 <br>
-- CompTIA Project+ (x)
+- CompTIA Project+ (https://imgur.com/a/gU7KlYG)
 <br>
-- ITIL Foundation (x)
+- ITIL Foundation (https://imgur.com/a/akboykA)
 <br>
-- LPI Linux Essentials (x)
+- LPI Linux Essentials (https://imgur.com/a/CBTSsUr)
 <br>
