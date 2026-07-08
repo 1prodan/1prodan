@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Cybersecurity Projects</h1>
+- LLM Vuln Testing with Garak (x)
 
-<!--
-**1prodan/1prodan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Certifications</h1>
+- CompTIA Infrastructure Specalist (A+, Network+, Sec+) (x)
+<br>
+- CompTIA Security Analytics Professional (Sec+, CySA+) (x)
+<br>
+- CompTIA PenTest+ (X)
+<br>
+- CompTIA Project+ (x)
+<br>
+- ITIL Foundation (x)
+<br>
+- LPI Linux Essentials (x)
+<br>
