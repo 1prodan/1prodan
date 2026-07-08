@@ -1,16 +1,16 @@
 <h1>Cybersecurity Projects</h1>
-- LLM Vuln Testing with Garak (x)
+- LLM Vuln Testing with Garak (https://github.com/1prodan/LAB)
 
 <h1>Certifications</h1>
-- CompTIA Infrastructure Specalist (A+, Network+, Sec+) (https://imgur.com/a/dOYXEWg)
+- CompTIA Infrastructure Specalist (A+, Network+, Sec+) (https://i.imgur.com/2i6Z5PO.png)
 <br>
-- CompTIA Security Analytics Professional (Sec+, CySA+) (https://imgur.com/a/vlsneU8)
+- CompTIA Security Analytics Professional (Sec+, CySA+) (https://i.imgur.com/SMsU06t.png)
 <br>
-- CompTIA PenTest+ (https://imgur.com/a/I08xSxt)
+- CompTIA PenTest+ (https://i.imgur.com/ureeSxU.png)
 <br>
-- CompTIA Project+ (https://imgur.com/a/gU7KlYG)
+- CompTIA Project+ (https://i.imgur.com/uk4u31f.png)
 <br>
-- ITIL Foundation (https://imgur.com/a/akboykA)
+- ITIL Foundation (https://i.imgur.com/5HPQq2g.png)
 <br>
-- LPI Linux Essentials (https://imgur.com/a/CBTSsUr)
+- LPI Linux Essentials (https://i.imgur.com/vimWWod.png)
 <br>
