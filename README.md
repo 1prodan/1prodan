@@ -4,7 +4,7 @@
 <h1>Certifications</h1>
 - CompTIA Infrastructure Specalist (A+, Network+, Sec+) (x)
 <br>
-- CompTIA Security Analytics Professional (Sec+, CySA+) (x)
+- CompTIA Security Analytics Professional (Sec+, CySA+) (https://imgur.com/a/vlsneU8)
 <br>
 - CompTIA PenTest+ (X)
 <br>
