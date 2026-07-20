@@ -1,6 +1,8 @@
 <h1>Cybersecurity Projects</h1>
 - LLM Vuln Testing with Garak (https://github.com/1prodan/GarakVulnTest/)
 
+- Snort Rule Creation and Sniffing (x)
+
 <h1>Certifications</h1>
 - CompTIA Infrastructure Specalist (A+, Network+, Sec+) (https://i.imgur.com/2i6Z5PO.png)
 <br>
